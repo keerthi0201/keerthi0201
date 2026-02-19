@@ -22,5 +22,5 @@ I am a Computer Science Engineering student interested in frontend development a
 ---
 
 ## Contact
-Email: your-email@example.com  
+Email: keerthikadeva08@gmail.com
 GitHub: https://github.com/keerthi0201
